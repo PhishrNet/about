@@ -1,4 +1,4 @@
-## PhishrNet
+## Phishr.Net
 
 _16/12/2017, the inception of Phishr.Net during a hackathon_
 
@@ -6,7 +6,7 @@ _23/06/2018, the birth of Phishr.Net on the www_
 
 ## About
 
-PhishrNet is an affordable platform for your SMishing and Vishing needs. It is a channel for delivering simulated scenarios.
+Phishr.Net is an affordable platform for your SMishing and Vishing needs. It is a channel for delivering simulated scenarios.
 
 ## Disclaimer
 
@@ -18,7 +18,7 @@ Email us at contact@phishr.net
 
 ## History of Phishr.Net
 
-Phishr.Net won a prize at Hacksmith v1.0
+Phishr.Net was a winner at Hacksmith v1.0
 
   > HackSmith v1.0 is a first of its kind infosec hackathon held in Singapore. The objective of this hackathon is to promote Singapore's infosec tools development culture.
 
