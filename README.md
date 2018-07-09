@@ -10,9 +10,9 @@ Phishr.Net is an affordable platform for your Phishing, SMishing and Vishing nee
 
 ## Disclaimer
 
-Our service is provide on a case-by-case basis only.
+Our service is provided on a case-by-case basis.
 
-## Contact Us
+## Contact
 
 Email us at contact@phishr.net
 
