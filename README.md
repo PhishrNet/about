@@ -6,7 +6,7 @@ _23/06/2018, the birth of Phishr.Net on the www_
 
 ## About
 
-Phishr.Net is an affordable platform for your SMishing and Vishing needs. It is a channel for delivering simulated scenarios.
+Phishr.Net is an affordable platform for your Phishing, SMishing and Vishing needs. It is a *channel* for delivering simulated scenarios.
 
 ## Disclaimer
 
