@@ -18,15 +18,15 @@ Email us at contact@phishr.net
 
 ## History of Phishr.Net
 
-Phishr.Net was a winner at Hacksmith v1.0
+Phishr.Net was a winner at Hacksmith v1.0, and was showcased at BlackHat Asia 2018
 
   > HackSmith v1.0 is a first of its kind infosec hackathon held in Singapore. The objective of this hackathon is to promote Singapore's infosec tools development culture.
 
   More details of HackSmith can be found here:
 
-  - https://www.meetup.com/en-AU/div-zero/events/244115880/
+  - [Div0 Meetup Event](https://www.meetup.com/en-AU/div-zero/events/244115880/) 
 
-  - http://www.ntuitive.sg/event-detail/singapore-infosec-community-hackathon-hacksmith-v1-0
+  - [Singapore InfoSec Community Hackathon](http://www.ntuitive.sg/event-detail/singapore-infosec-community-hackathon-hacksmith-v1-0)
 
 ![alt text][poster]
 
