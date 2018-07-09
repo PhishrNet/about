@@ -27,3 +27,7 @@ Phishr.Net was a winner at Hacksmith v1.0
   - https://www.meetup.com/en-AU/div-zero/events/244115880/
 
   - http://www.ntuitive.sg/event-detail/singapore-infosec-community-hackathon-hacksmith-v1-0
+
+![alt text][poster]
+
+[poster]: A3_Hacksmith.png "Hacksmith Poster"
