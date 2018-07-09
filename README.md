@@ -18,7 +18,7 @@ Email us at contact@phishr.net
 
 ## History of Phishr.Net
 
-Phishr.Net won 1st prize of Hacksmith v1.0
+Phishr.Net won a prize at Hacksmith v1.0
 
   > HackSmith v1.0 is a first of its kind infosec hackathon held in Singapore. The objective of this hackathon is to promote Singapore's infosec tools development culture.
 
